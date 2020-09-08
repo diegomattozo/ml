@@ -1,0 +1,69 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.mouseWheelZoom": true,
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+  "[typescriptreact]": {
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[javascriptreact]": {
+    "editor.tabSize": 2
+  },
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "typescript.preferences.quoteStyle": "single",
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "White",
+  "python.venvPath": "/home/diego/.cache/pypoetry/virtualenvs",
+  "python.linting.flake8Enabled": true,
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["--line-length", "79", "-S"],
+  "python.testing.pytestEnabled": true,
+  "files.insertFinalNewline": true,
+  "mypy.executable": "/home/diego/usr/dev/tdd/superlists/venv/bin/mypyls",
+  "workbench.colorCustomizations": {
+    "[White]": {
+      "editorLineNumber.foreground": "#1f1d1d",
+      "activityBar.foreground": "#615e5e",
+      "tab.unfocusedInactiveForeground": "#363535",
+      "tab.inactiveForeground": "#363535",
+      "terminal.background": "#e2e2e2",
+      "terminal.foreground": "#3f3f3f",
+      "terminalCursor.background": "#A89984",
+      "terminalCursor.foreground": "#A89984",
+      "terminal.ansiBlack": "#1D2021",
+      "terminal.ansiBlue": "#0D6678",
+      "terminal.ansiBrightBlack": "#665C54",
+      "terminal.ansiBrightBlue": "#0D6678",
+      "terminal.ansiBrightCyan": "#8BA59B",
+      "terminal.ansiBrightGreen": "#95C085",
+      "terminal.ansiBrightMagenta": "#8F4673",
+      "terminal.ansiBrightRed": "#FB543F",
+      "terminal.ansiBrightWhite": "#726100",
+      "terminal.ansiBrightYellow": "#FAC03B",
+      "terminal.ansiCyan": "#8BA59B",
+      "terminal.ansiGreen": "#95C085",
+      "terminal.ansiMagenta": "#8F4673",
+      "terminal.ansiRed": "#FB543F",
+      "terminal.ansiWhite": "#A89984",
+      "terminal.ansiYellow": "#FAC03B"
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "[White]": {
+      "comments": "#da258e",
+      "strings": "#270808ca"
+    }
+  }
+}
